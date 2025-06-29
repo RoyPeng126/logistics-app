@@ -1,6 +1,6 @@
-package com.roy.logistics.repository;
+package com.roy.logistics_app.repository;
 
-import com.roy.logistics.entity.User;
+import com.roy.logistics_app.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

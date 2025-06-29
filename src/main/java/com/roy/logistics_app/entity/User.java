@@ -1,4 +1,4 @@
-package com.roy.logistics.entity;
+package com.roy.logistics_app.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,7 +1,7 @@
-package com.roy.logistics.controller;
+package com.roy.logistics_app.controller;
 
-import com.roy.logistics.entity.User;
-import com.roy.logistics.service.UserService;
+import com.roy.logistics_app.entity.User;
+import com.roy.logistics_app.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

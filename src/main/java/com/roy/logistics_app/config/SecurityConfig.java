@@ -1,4 +1,4 @@
-package com.roy.logistics.config;
+package com.roy.logistics_app.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
