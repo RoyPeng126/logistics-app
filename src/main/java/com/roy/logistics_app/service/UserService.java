@@ -1,7 +1,7 @@
-package com.roy.logistics.service;
+package com.roy.logistics_app.service;
 
-import com.roy.logistics.entity.User;
-import com.roy.logistics.repository.UserRepository;
+import com.roy.logistics_app.entity.User;
+import com.roy.logistics_app.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
